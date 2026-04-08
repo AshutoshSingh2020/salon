@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+  <defs>
+    <linearGradient id="g4" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#38bdf8"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="700" fill="url(#g4)"/>
+  <circle cx="210" cy="520" r="170" fill="white" opacity="0.12"/>
+  <circle cx="1000" cy="180" r="160" fill="white" opacity="0.1"/>
+  <path d="M600 170 C720 170, 820 270, 820 390 C820 520, 720 600, 600 600 C480 600, 380 520, 380 390 C380 270, 480 170, 600 170" fill="white" opacity="0.18"/>
+  <circle cx="540" cy="360" r="12" fill="#0f172a" opacity="0.5"/>
+  <circle cx="660" cy="360" r="12" fill="#0f172a" opacity="0.5"/>
+  <path d="M540 440 C580 470, 620 470, 660 440" fill="none" stroke="#0f172a" stroke-width="10" opacity="0.5" stroke-linecap="round"/>
+  <text x="80" y="560" fill="#ffffff" font-size="72" font-family="Poppins, Arial, sans-serif" font-weight="700">Facial</text>
+  <text x="80" y="612" fill="#bae6fd" font-size="28" font-family="Poppins, Arial, sans-serif">Glow & hydrate</text>
+</svg>

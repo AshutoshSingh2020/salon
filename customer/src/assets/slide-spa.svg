@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+  <defs>
+    <linearGradient id="g5" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#064e3b"/>
+      <stop offset="100%" stop-color="#fcd34d"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="700" fill="url(#g5)"/>
+  <circle cx="220" cy="140" r="120" fill="white" opacity="0.12"/>
+  <circle cx="980" cy="520" r="200" fill="white" opacity="0.12"/>
+  <path d="M520 260 C540 210, 600 190, 640 220 C680 250, 680 320, 620 360 C560 400, 510 360, 510 320" fill="white" opacity="0.18"/>
+  <path d="M700 280 C720 240, 780 230, 820 260 C860 290, 860 350, 800 380 C740 410, 690 360, 690 330" fill="white" opacity="0.16"/>
+  <text x="80" y="560" fill="#ffffff" font-size="72" font-family="Poppins, Arial, sans-serif" font-weight="700">Spa</text>
+  <text x="80" y="612" fill="#fef3c7" font-size="28" font-family="Poppins, Arial, sans-serif">Relax & renew</text>
+</svg>

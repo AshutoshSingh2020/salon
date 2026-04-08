@@ -1,0 +1,28 @@
+:root {
+  --brand: #111827;
+  --accent: #f97316;
+  --bg: #f3f4f6;
+  --muted: #6b7280;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background: var(--bg);
+  color: var(--brand);
+}
+
+.sidebar-link {
+  display: block;
+  padding: 10px 12px;
+  border-radius: 8px;
+  color: var(--brand);
+}
+
+.sidebar-link.active {
+  background: #e5e7eb;
+}

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#f97316"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="700" fill="url(#g1)"/>
+  <circle cx="220" cy="170" r="120" fill="white" opacity="0.15"/>
+  <circle cx="1020" cy="140" r="160" fill="white" opacity="0.08"/>
+  <circle cx="930" cy="560" r="220" fill="white" opacity="0.12"/>
+  <path d="M620 170 C700 140, 780 140, 860 170" fill="none" stroke="white" stroke-width="10" opacity="0.5"/>
+  <path d="M740 210 L860 330" stroke="white" stroke-width="14" opacity="0.4" stroke-linecap="round"/>
+  <path d="M860 210 L740 330" stroke="white" stroke-width="14" opacity="0.4" stroke-linecap="round"/>
+  <text x="80" y="560" fill="#ffffff" font-size="72" font-family="Poppins, Arial, sans-serif" font-weight="700">Haircut</text>
+  <text x="80" y="612" fill="#fde68a" font-size="28" font-family="Poppins, Arial, sans-serif">Precision & style</text>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+  <defs>
+    <linearGradient id="g3" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1f2937"/>
+      <stop offset="100%" stop-color="#6366f1"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="700" fill="url(#g3)"/>
+  <circle cx="240" cy="160" r="120" fill="white" opacity="0.12"/>
+  <circle cx="1020" cy="560" r="220" fill="white" opacity="0.12"/>
+  <path d="M540 210 C600 160, 680 150, 760 170 C820 185, 860 230, 860 300 C860 420, 760 520, 620 520 C480 520, 380 420, 380 300 C380 250, 430 230, 480 220" fill="white" opacity="0.18"/>
+  <text x="80" y="560" fill="#ffffff" font-size="72" font-family="Poppins, Arial, sans-serif" font-weight="700">Hair Color</text>
+  <text x="80" y="612" fill="#c7d2fe" font-size="28" font-family="Poppins, Arial, sans-serif">Vibrant, lasting shades</text>
+</svg>

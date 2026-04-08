@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+  <defs>
+    <linearGradient id="g2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#22c55e"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="700" fill="url(#g2)"/>
+  <circle cx="200" cy="220" r="140" fill="white" opacity="0.12"/>
+  <circle cx="980" cy="150" r="170" fill="white" opacity="0.08"/>
+  <path d="M720 180 C780 230, 820 300, 820 360 C820 470, 720 540, 620 540 C520 540, 420 470, 420 360 C420 300, 460 230, 520 180" fill="white" opacity="0.16"/>
+  <path d="M540 250 C560 230, 600 220, 620 220 C640 220, 680 230, 700 250" fill="none" stroke="white" stroke-width="12" opacity="0.6" stroke-linecap="round"/>
+  <text x="80" y="560" fill="#ffffff" font-size="72" font-family="Poppins, Arial, sans-serif" font-weight="700">Beard Trim</text>
+  <text x="80" y="612" fill="#bbf7d0" font-size="28" font-family="Poppins, Arial, sans-serif">Clean, sharp, confident</text>
+</svg>
